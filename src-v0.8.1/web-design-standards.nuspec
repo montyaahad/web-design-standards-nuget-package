@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>web-design-standards</id>
+    <version>0.8.1</version>
+    <authors>Abdul Ahad</authors>
+    <owners>18F</owners>
+    <projectUrl>https://github.com/18F/web-design-standards</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description> Open source UI components and visual style guide for U.S. government websites.</description>
+    <releaseNotes>Initial release version 0.8.1 matching with actual project</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>CSS js</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
