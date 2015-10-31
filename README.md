@@ -8,3 +8,9 @@ Go to your Visual Studio Package Manager Console, run the below command.
 `PM> Install-Package web-design-standards`
 
 Web design standards css, scripts, images will be under `Content> assets` folder.
+
+Add the following `<link>` and `<script>` elements in your HTML:
+
+    <link rel="stylesheet" href="/Content/assets/css/main.css">
+    <link rel="stylesheet" href="/Content/assets/css/google-fonts.css">
+    <script src="/Content/assets/js/components.js"></script>
